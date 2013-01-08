@@ -1,5 +1,6 @@
 package com.gerebear.gbtools.io;
 
+//Dependency ./Log.java
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
