@@ -1,0 +1,10 @@
+I find myself simplifying operations quite frequently.
+ Making Helper classes and such.
+
+ This library serve any of:
+ 1) simplifing operations that take 20-30 lines to perform down to 1 - 5.
+ 2) finding ways to be more efficient. (caching when possible, wrapping a optomized algo.)
+ 3) interesting helpful classes. (in general)
+ 
+CC-BY-3.0 http://creativecommons.org/licenses/by/3.0/ 
+-GereBear (2013)
